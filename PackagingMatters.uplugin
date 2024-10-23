@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"SemVersion": "1.0.0",
+	"FriendlyName": "Packaging Matters",
+	"Description": "Makes Excited Photonic Matter and Dark Matter Residue packageable",
+	"Category": "Modding",
+	"CreatedBy": "Jarno",
+	"CreatedByURL": "https://github.com/Jarno458",
+	"DocsURL": "https://github.com/Jarno458/UsefulLiquidBiofuelMod",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"GameVersion": ">=365306",
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.8.0"
+		}
+	]
+}
