@@ -15,7 +15,7 @@
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
-	"GameVersion": ">=365306",
+	"GameVersion": ">=410840",
 	"Plugins": [
 		{
 			"Name": "SML",
