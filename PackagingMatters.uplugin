@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.2",
-	"SemVersion": "1.0.2",
+	"VersionName": "1.1.0",
+	"SemVersion": "1.1.0",
 	"FriendlyName": "Packaging Matters",
 	"Description": "Makes Excited Photonic Matter and Dark Matter Residue packageable",
 	"Category": "Modding",
@@ -20,7 +20,7 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.8.0"
+			"SemVersion": "^3.11.0"
 		}
 	]
 }
