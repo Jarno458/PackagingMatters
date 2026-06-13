@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "2.0.0",
-	"SemVersion": "2.0.0",
+	"VersionName": "1.2.0",
+	"SemVersion": "1.2.0",
 	"FriendlyName": "Packaging Matters",
 	"Description": "Makes Excited Photonic Matter and Dark Matter Residue packageable",
 	"Category": "Modding",
